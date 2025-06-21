@@ -1,0 +1,6 @@
+# Ignore sensitive and system files
+db.php
+*.log
+.env
+config.php
+.DS_Store
