@@ -1,4 +1,4 @@
-# PHP To-Do List App 📝
+#  To-Do List Project 📝
 
 A simple PHP + MySQL web application for managing tasks.
 
